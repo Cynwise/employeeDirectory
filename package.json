@@ -2,7 +2,7 @@
   "name": "employeedirectory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Cynwise/employeeDirectory",
+  "homepage": "https://github.com/Cynwise/employeeDirectory/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
