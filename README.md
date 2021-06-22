@@ -2,6 +2,10 @@
 
 ![ScreenShot](./assets/demoScreenshot.png)
 
+Github Repository: https://github.com/Cynwise/employeeDirectory
+
+Deployment Link: https://apple-martini-679.herokuapp.com/
+
 ## Description
 
 This is an employee directory application made using React. The project uses the randomuser.me api to pull a number of generated employees. The application updates dynamically as you enter search terms into the search bar. The user can search by employee name, phone, email, or location.
